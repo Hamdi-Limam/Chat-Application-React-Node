@@ -1,7 +1,7 @@
 Realtime Chat Application
 Realtime Chat Application is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial.
 
-[a link](https://5f31b1aa3ccf49cda05dcea6--sad-shaw-9339a8.netlify.app/)
+  [Live Demo](https://5f31b1aa3ccf49cda05dcea6--sad-shaw-9339a8.netlify.app/)
 
 Introduction
 
